@@ -14,13 +14,13 @@ Top Features
 
 Faq
 ----------------------
-Q : How does the filtering work and what options do i have
-A : You can filter key/values by typing a keyword in the input field.
-- Typing a keyword without "!" will return results that include that keyword. (e.g. keyword)
-- Typing a keyword with "!" will return results that exclude that keyword. (e.g. !keyword)
+Q : How does the filtering work and what options do i have?  
+A : You can filter key/values by typing a keyword in the input field.  
+- Typing a keyword without "!" will return results that include that keyword. (e.g. keyword)  
+- Typing a keyword with "!" will return results that exclude that keyword. (e.g. !keyword)  
 
-Q : Why Local storage & Session storage only?
-A : Who knows what the feature brings us...
+Q : Why Local storage & Session storage only?  
+A : Who knows what the feature brings us...  
 
 
 
