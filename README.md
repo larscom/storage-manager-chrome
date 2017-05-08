@@ -12,7 +12,7 @@ Top Features
  - Shows pretty JSON values
  - Add/delete items
  - Copy values to clipboard
- - Dump value to console as an JSON object
+ - Dump value to console as a JSON object
 
 Faq
 ----------------------
@@ -26,7 +26,7 @@ A : Who knows what the feature brings us...
 
 
 
-Change log:
+Change log
 ----------------------
 
 Version 1.0.1 (May 08, 2017)
