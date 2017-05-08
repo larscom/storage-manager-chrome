@@ -1,7 +1,9 @@
 Easy Storage Manager
 ==========================
 
-The best free to use local storage and session storage manager extension for google chrome!
+The best free to use local storage and session storage manager extension for google chrome!    
+Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)
+
 
 Top Features
 ==========================
