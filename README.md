@@ -22,13 +22,16 @@ A : You can filter key/values by typing a keyword in the input field.
 - Typing a keyword with "!" will return results that exclude that keyword. (e.g. !keyword)  
 
 Q : Why Local storage & Session storage only?  
-A : Who knows what the feature brings us...  
+A : For now yes, who knows what the feature brings us...  
 
 
 
 Change log
 ----------------------
-Version 1.0.4 (May 09, 2017) (Current)
+Version 1.0.5 (May 09, 2017) (Current)
+- Add/Delete bug fix
+
+Version 1.0.4 (May 09, 2017)
 - UI Visual Update
 
 Version 1.0.3 (May 09, 2017)
