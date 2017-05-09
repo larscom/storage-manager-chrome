@@ -28,7 +28,10 @@ A : Who knows what the feature brings us...
 
 Change log
 ----------------------
-Version 1.0.3 (May 09, 2017) (Current)
+Version 1.0.4 (May 09, 2017) (Current)
+- UI Visual Update
+
+Version 1.0.3 (May 09, 2017)
 - UI Bug fix
 
 Version 1.0.2 (May 09, 2017)
