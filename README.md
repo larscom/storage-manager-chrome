@@ -4,6 +4,8 @@ Easy Storage Manager
 The best free to use local storage and session storage manager extension for google chrome!    
 Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)
 
+![header-image](https://lh3.googleusercontent.com/wL3n59uFNRV13RFdQxIniAx7LLtarPteLYSSjj4Nc-9mtOLCO4ZzvHxpc3qSReIbzQybsPwLsA=s640-h400-e365-rw)
+
 
 Top Features
 ==========================
@@ -18,8 +20,8 @@ Faq
 ----------------------
 Q : How does the filtering work and what options do i have?  
 A : You can filter key/values by typing a keyword in the input field.  
-- Typing a keyword without "!" will return results that include that keyword. (e.g. keyword)  
-- Typing a keyword with "!" will return results that exclude that keyword. (e.g. !keyword)  
+- Typing a keyword without '!' will return results that include that keyword. (e.g. 'keyword')  
+- Typing a keyword with '!' will return results that exclude that keyword. (e.g. '!keyword')  
 
 Q : Why Local storage & Session storage only?  
 A : For now yes, who knows what the feature brings us...  
