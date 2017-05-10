@@ -30,7 +30,7 @@ A : Cookies like '_ga' are cookies that belong to google and will be created bac
 
 Change log
 ----------------------
-Version 1.1.1 (May 10, 2017) (Current)
+Version 1.1.2 (May 10, 2017) (Current)
 - UI Improvements
 
 Version 1.1.0 (May 10, 2017)
