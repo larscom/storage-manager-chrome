@@ -24,7 +24,7 @@ A : You can filter key/values by typing a keyword in the input field.
 - Typing a keyword with '!' will return results that exclude that keyword. (e.g. '!keyword')  
 
 Q : Why can't i remove certain cookies like '_ga'?  
-A : Cookies like '_ga' are cookies that belong to google and can't be removed. (even if you could, they would be created back instantly) 
+A : Cookies like '_ga' are cookies that belong to google and will be created back instantly if removed.. 
 
 
 
