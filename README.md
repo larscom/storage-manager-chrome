@@ -33,7 +33,7 @@ Change log
 Version 1.1.1 (May 10, 2017) (Current)
 - UI Improvements
 
-Version 1.1.0 (May 10, 2017) (Current)
+Version 1.1.0 (May 10, 2017)
 - Added cookies!
 - UI Improvements
 
