@@ -9,7 +9,8 @@ Available in the google chrome webstore, download [here](https://chrome.google.c
 
 Features
 ==========================
- - Local storage, Session storage and cookies supported!
+ - Local storage, Session storage and Cookies supported!
+ - Import/Export local storage, session storage (cookies are export only)
  - Filter key/values ("!" operator supported. "!value" excludes the value) See Faq
  - Shows pretty JSON and other data types
  - Add/delete items to local, session or cookie storage
@@ -30,7 +31,12 @@ A : Cookies like '_ga' are cookies that belong to google and will be created bac
 
 Change log
 ----------------------
-Version 1.1.2 (May 10, 2017) (Current)
+Version 1.2.0 (May 10, 2017) (Current)
+- Added import/export functionality!
+- UI Improvements
+- Bug fixes
+
+Version 1.1.2 (May 10, 2017)
 - UI Improvements
 
 Version 1.1.0 (May 10, 2017)
