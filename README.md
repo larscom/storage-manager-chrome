@@ -27,7 +27,7 @@ A : You can filter key/values by typing a keyword in the input field.
 Q : Why can't i remove certain cookies like '_ga'?  
 A : Cookies like '_ga' are cookies that belong to google and will be created back instantly if removed.. 
 
-Q : What is the red R in the icon that appear sometimes?      
+Q : Sometimes a red R appears in the icon, what is that?     
 A : It means you have to reload the webpage. (This happens sometimes when you visit google web pages)     
 
 
