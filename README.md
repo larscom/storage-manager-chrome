@@ -19,17 +19,16 @@ Features
 
 Faq
 ----------------------
-Q: How does the filtering work and what options do i have?  
-A: You can filter key/values by typing a keyword in the input field.  
+Q : How does the filtering work and what options do i have?  
+A : You can filter key/values by typing a keyword in the input field.  
 - Typing a keyword without '!' will return results that include that keyword. (e.g. 'keyword')  
 - Typing a keyword with '!' will return results that exclude that keyword. (e.g. '!keyword')  
 
-Q: Why can't i remove certain cookies like '_ga'?  
-A: Cookies like '_ga' are cookies that belong to google and will be created back instantly if removed.. 
+Q : Why can't i remove certain cookies like '_ga'?  
+A : Cookies like '_ga' are cookies that belong to google and will be created back instantly if removed.. 
 
-Q: What is the red R in the icon?  
-A: It means you have to reload the webpage.  
-   This happens sometimes when you visit google pages (like the google chrome extension store)
+Q : What is the red R in the icon that appear sometimes?      
+A : It means you have to reload the webpage. (This happens sometimes when you visit google web pages)     
 
 
 
