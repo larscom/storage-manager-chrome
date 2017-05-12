@@ -10,7 +10,7 @@ Available in the google chrome webstore, download [here](https://chrome.google.c
 Features
 ==========================
  - Local storage, Session storage and Cookies supported!
- - Import/Export local storage, session storage (cookies are export only)
+ - Import/Export local storage, session storage and cookies (cookies are session only when imported)
  - Filter key/values ("!" operator supported. "!value" excludes the value) See Faq
  - Shows pretty JSON and other data types
  - Add/delete items to local, session or cookie storage
@@ -28,8 +28,10 @@ Q : Why can't i remove certain cookies like '_ga'?
 A : Cookies like '_ga' are cookies that belong to google and will be created back instantly if removed.. 
 
 Q : Sometimes a red R appears in the icon, what is that?     
-A : It means you have to reload the webpage. (This happens sometimes when you visit google web pages)     
+A : It means you have to reload the webpage. Or the webpage doesn't allow access to web storage (some google webpages do not allow access to localstorage etc)    
 
+Q : I can only import cookies as session cookies why is that?  
+A : When imported, the expire dates are unknown.
 
 
 Change log
