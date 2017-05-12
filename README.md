@@ -34,7 +34,10 @@ A : It means you have to reload the webpage. (This happens sometimes when you vi
 
 Change log
 ----------------------
-Version 1.2.0 (May 12, 2017) (Current)
+Version 1.2.1 (May 12, 2017) (Current)
+- Added base64 string import/export
+
+Version 1.2.0 (May 11, 2017)
 - Added import/export functionality!
 - UI Improvements
 - Bug fixes
