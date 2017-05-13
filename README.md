@@ -4,7 +4,7 @@ Easy Storage Manager
 The best free to use local storage, session storage and cookie manager extension for google chrome!    
 Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)
 
-![header-image](https://lh3.googleusercontent.com/0DReOXSFoTTvBVJbCmw2dAh0Ia6_XJdWcdVdhUOsc8TYCz1Y9WNetDf1BCDheLAvqQlhZM4kkBY=s640-h400-e365-rw)
+![header-image](https://lh3.googleusercontent.com/yK2lkN5pUVfX95nPFNQMyi0bd8wIzh_kZaNAJxQHw4h0BBhkUecg6HdP2Qjpx3HzWqoA5v1AYi0=s640-h400-e365-rw)
 
 
 Features
@@ -34,10 +34,16 @@ Q : I can only import cookies as session cookies why is that?
 A : When imported, the expire dates are unknown.
 
 
+Known Bugs
+----------------------
+1. Filter on keys/values stop working after filtering a few times
+
+
 Change log
 ----------------------
-Version 1.2.1 (May 12, 2017) (Current)
+Version 1.2.3 (May 13, 2017)
 - Added base64 string import/export
+- UI Updates
 
 Version 1.2.0 (May 11, 2017)
 - Added import/export functionality!
@@ -45,22 +51,13 @@ Version 1.2.0 (May 11, 2017)
 - Bug fixes
 
 Version 1.1.2 (May 10, 2017)
-- UI Improvements
-
-Version 1.1.0 (May 10, 2017)
 - Added cookies!
 - UI Improvements
 
 Version 1.0.5 (May 09, 2017)
 - Add/Delete bug fix
-
-Version 1.0.4 (May 09, 2017)
-- UI Visual Update
-
-Version 1.0.3 (May 09, 2017)
 - UI Bug fix
-
-Version 1.0.2 (May 09, 2017)
+- UI Visual Update
 - More improvements
 
 Version 1.0.1 (May 08, 2017)
