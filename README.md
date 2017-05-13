@@ -34,16 +34,12 @@ Q : I can only import cookies as session cookies why is that?
 A : When imported, the expire dates are unknown.
 
 
-Known Bugs
-----------------------
-1. Filter on keys/values stop working after filtering a few times
-
-
 Change log
 ----------------------
-Version 1.2.3 (May 13, 2017)
+Version 1.2.4 (May 13, 2017) (Current)
 - Added base64 string import/export
 - UI Updates
+- Filter bug fix
 
 Version 1.2.0 (May 11, 2017)
 - Added import/export functionality!
