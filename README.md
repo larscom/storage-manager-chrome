@@ -4,7 +4,7 @@ Easy Storage Manager
 Handsdown, the best free to use local storage, session storage and cookie manager extension for google chrome!    
 Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)
 
-![header-image](https://lh3.googleusercontent.com/yK2lkN5pUVfX95nPFNQMyi0bd8wIzh_kZaNAJxQHw4h0BBhkUecg6HdP2Qjpx3HzWqoA5v1AYi0=s640-h400-e365-rw)
+![header-image](https://lh3.googleusercontent.com/0C3OGpmAasMXQ6Wc2VbGsUMuRPfJqPmRo2t9atUIWNMlY_sAEVCVpLHla1-ZDWgppEapmkVPCQ=s640-h400-e365-rw)
 
 
 Top Features
