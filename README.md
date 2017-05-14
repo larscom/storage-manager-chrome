@@ -6,6 +6,8 @@ Available in the google chrome webstore, download [here](https://chrome.google.c
 
 ![header-image](https://lh3.googleusercontent.com/0C3OGpmAasMXQ6Wc2VbGsUMuRPfJqPmRo2t9atUIWNMlY_sAEVCVpLHla1-ZDWgppEapmkVPCQ=s640-h400-e365-rw)
 
+Support me if you would like to!    
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S7L7L2B9SNTME)  
 
 Top Features
 ==========================
