@@ -38,7 +38,7 @@ A : When imported, the expire dates are unknown.
 
 Change log
 ----------------------
-Version 1.3.0 (May 14, 2017) (Current)
+Version 1.3.1 (May 14, 2017) (Current)
 - Huge performance increase (easely handle 5.000+ items in storage)
 - You can now edit items in local storage and session storage
 
