@@ -1,10 +1,9 @@
 Easy Storage Manager
 ==========================
+[![easy-storage-manager](https://lh3.googleusercontent.com/0C3OGpmAasMXQ6Wc2VbGsUMuRPfJqPmRo2t9atUIWNMlY_sAEVCVpLHla1-ZDWgppEapmkVPCQ=s640-h400-e365-rw)](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
 
 Handsdown, the best free to use local storage, session storage and cookie manager extension for google chrome!    
-Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)  
-
-[![easy-storage-manager](https://lh3.googleusercontent.com/0C3OGpmAasMXQ6Wc2VbGsUMuRPfJqPmRo2t9atUIWNMlY_sAEVCVpLHla1-ZDWgppEapmkVPCQ=s640-h400-e365-rw)](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)  
+Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
 
 Support me if you would like to!    
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S7L7L2B9SNTME)  
