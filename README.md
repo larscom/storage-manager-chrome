@@ -16,7 +16,7 @@ Top Features
 - Copy values to clipboard (with the click of a button)
 - Dump values to console
 
-Faq
+FAQ
 ----------------------
 Q : I can't find the edit button, can you even edit items?    
 A : Yes! you can edit localstorage and sessionstorage, but only in 'Default' style mode.    
