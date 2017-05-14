@@ -1,24 +1,27 @@
 Easy Storage Manager
 ==========================
 
-The best free to use local storage, session storage and cookie manager extension for google chrome!    
+Handsdown, the best free to use local storage, session storage and cookie manager extension for google chrome!    
 Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)
 
 ![header-image](https://lh3.googleusercontent.com/yK2lkN5pUVfX95nPFNQMyi0bd8wIzh_kZaNAJxQHw4h0BBhkUecg6HdP2Qjpx3HzWqoA5v1AYi0=s640-h400-e365-rw)
 
 
-Features
+Top Features
 ==========================
- - Local storage, Session storage and Cookies supported!
- - Import/Export local storage, session storage and cookies (cookies are session only when imported)
- - Filter key/values ("!" operator supported. "!value" excludes the value) See Faq
- - Shows pretty JSON and other data types
- - Add/delete items to local, session or cookie storage
- - Copy values to clipboard (with the click of a button!)
- - Dump values to console as a JSON object or other data type
+- !! Blazingly fast !! (even with 5.000+ items in storage)
+- Search filter (supports '!' operator -> see FAQ)
+- Pretty JSON (can be turned on/off)
+- Import/Export
+- Copy values to clipboard (with the click of a button)
+- Dump values to console
 
 Faq
 ----------------------
+Q : I can't find the edit button, can you even edit items?    
+A : Yes! you can edit localstorage and sessionstorage, but only in 'Default' style mode.    
+- Click on an item to edit it, and press enter when finnished!    
+
 Q : How does the filtering work and what options do i have?  
 A : You can filter key/values by typing a keyword in the input field.  
 - Typing a keyword without '!' will return results that include that keyword. (e.g. 'keyword')  
@@ -33,10 +36,13 @@ A : It means you have to reload the webpage. Or the webpage doesn't allow access
 Q : I can only import cookies as session cookies why is that?  
 A : When imported, the expire dates are unknown.
 
-
 Change log
 ----------------------
-Version 1.2.4 (May 13, 2017) (Current)
+Version 1.3.0 (May 14, 2017) (Current)
+- Huge performance increase (easely handle 5.000+ items in storage)
+- You can now edit items in local storage and session storage
+
+Version 1.2.4 (May 13, 2017)
 - Added base64 string import/export
 - UI Updates
 - Filter bug fix
