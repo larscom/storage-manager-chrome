@@ -39,7 +39,7 @@ A : When imported, the expire dates are unknown.
 
 Change log
 ----------------------
-Version 1.3.1 (May 16, 2017) (Current)
+Version 1.3.2 (May 16, 2017) (Current)
 - Performance update with large data
 
 Version 1.3.1 (May 14, 2017)
