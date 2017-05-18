@@ -31,7 +31,7 @@ A : You can filter key/values by typing a keyword in the input field.
 Q : Why can't i remove certain cookies like '_ga'?  
 A : Cookies like '_ga' are cookies that belong to google and will be created back instantly if removed.. 
 
-Q : Sometimes a red R appears in the icon, what is that?     
+Q : Sometimes a red &#8635; appears in the icon, what is that?     
 A : It means you have to reload the webpage. Or the webpage doesn't allow access to web storage (some google webpages do not allow access to localstorage etc)    
 
 Q : I can only import cookies as session cookies why is that?  
