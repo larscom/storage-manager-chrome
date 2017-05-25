@@ -1,6 +1,6 @@
 Easy Storage Manager
 ==========================
-[![easy-storage-manager](https://lh3.googleusercontent.com/0C3OGpmAasMXQ6Wc2VbGsUMuRPfJqPmRo2t9atUIWNMlY_sAEVCVpLHla1-ZDWgppEapmkVPCQ=s640-h400-e365-rw)](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
+[![easy-storage-manager](https://lh3.googleusercontent.com/-QUju5lMEv9CbrjhT1yIDoWkNerdn37CqK6SQu_ONalfhvUKwI49i59IJAd_upyCoJirClC5r8g=s640-h400-e365-rw)](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
 
 Handsdown, the best free to use local storage, session storage and cookie manager extension for google chrome!    
 Available in the google chrome webstore, download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
@@ -39,7 +39,8 @@ A : When imported, the expire dates are unknown.
 
 Change log
 ----------------------
-Version 1.3.3 (May 18, 2017) (Current)
+Version 1.3.5 (May 25, 2017) (Current)
+- UI Update and improvements
 - You can now import/export to clipboard
 - Performance update with large data
 
