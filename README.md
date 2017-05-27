@@ -39,7 +39,7 @@ A : When imported, the expire dates are unknown.
 
 Change log
 ----------------------
-Version 1.3.5 (May 25, 2017) (Current)
+Version 1.3.6 (May 27, 2017) (Current)
 - UI Update and improvements
 - You can now import/export to clipboard
 - Performance update with large data
