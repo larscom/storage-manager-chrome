@@ -1,6 +1,6 @@
 Easy Storage Manager for Google Chrome (web extension)
 ==========================
-[![easy-storage-manager](https://pli.io/2OVN2B.jpg)](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
+[![easy-storage-manager](https://pli.io/2OViGH.jpg)](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)    
 
 Manage your local storage and session storage. **Save snapshots to the cloud and restore**, import/export to file.
 
