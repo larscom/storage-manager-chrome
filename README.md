@@ -4,17 +4,17 @@ Easy Storage Manager for Google Chrome (web extension)
 
 Manage your local storage and session storage. **Save snapshots to the cloud and restore**, import/export to file.
 
-Hands down, the best and fastest local storage and session storage manager for google chrome!
+Hands down, the best and fastest local storage and session storage manager for google chrome!                                            
 Download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)  
 
 Paid/Free Trial (30 days) version includes
 ==========================
-   - save up to 50 snapshots in the **cloud**
-   - edit/delete snapshots of localstorage and sessionstorage
-   - easily restore snapshot from localstorage to sessionstorage and visa versa
-   - automatically refresh web page after restoring a snapshot
+   - save up to 50 **snapshots** in the **cloud**
+   - edit/delete **snapshots** of localstorage and sessionstorage
+   - easily restore **snapshot** from localstorage to sessionstorage and visa versa
+   - automatically refresh web page after restoring a **snapshot**
    
-The snapshots module (only included in the paid/free trial version) makes it really easy to develop web sites which have some kind of state (stored in localstorage/sessionstorage) where you want to go back to.
+The **snapshots** module (only included in the paid/free trial version) makes it really easy to develop web sites which have some kind of state (stored in localstorage/sessionstorage) where you want to go back to.
 
 Free version includes
 ==========================
