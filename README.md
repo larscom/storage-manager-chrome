@@ -7,6 +7,11 @@ Manage your local storage and session storage. **Save snapshots to the cloud and
 Hands down, the best and fastest local storage and session storage manager for google chrome!                                            
 Download [here](https://chrome.google.com/webstore/detail/easy-storage-manager/ifpigodghnlhaaeibphbkloekpcpmcfo)  
 
+!! ATTENTION !!
+========================== 
+This extension is made for the **original** Google Chrome [web browser](https://www.google.com/intl/en/chrome/). Other versions of chrome/chromium may work, but may have limited functionality.
+
+
 Paid/Free Trial (30 days) version includes
 ==========================
    - save up to 50 **snapshots** in the **cloud**
